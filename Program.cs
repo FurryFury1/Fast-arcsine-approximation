@@ -20,7 +20,7 @@ namespace ApproximationAsin
     {
         static void Main(string[] args)
         {
-            while (true)
+            
             {
                 Console.WriteLine(FastMath.Asin(Convert.ToDouble(Console.ReadLine())));
             }
